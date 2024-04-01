@@ -1,0 +1,91 @@
+TERM,MEANING
+Python,A high-level programming language known for its simplicity and readability.
+Software,Programs and applications that run on computers or other devices.
+Development,The process of creating or improving software products.
+Code,Instructions written in a programming language to perform a specific task or function.
+Programming,The act of writing and designing computer programs.
+Language,A system of communication used to express instructions to a computer.
+Computer,An electronic device capable of processing data according to programmed instructions.
+System,A collection of elements or components working together to perform a task or function.
+Application,A software program designed to perform a specific task or set of tasks for the user.
+Framework,A pre-built structure or platform that provides a foundation for developing software applications.
+Library,A collection of pre-written code or functions that can be reused in software development.
+Module,A self-contained unit of code that can be used and reused in various programs.
+Function,A named block of code that performs a specific task or operation.
+Variable,A named storage location in computer memory used to hold data.
+Object,"An instance of a class in object-oriented programming, encapsulating data and behavior."
+Class,"A blueprint for creating objects, providing initial values and methods."
+Method,"A function associated with a class, typically acting on its instances."
+Statement,A unit of code that expresses some action to be carried out.
+Syntax,The rules that define the structure of a programming language.
+Algorithm,A step-by-step procedure for solving a problem or accomplishing a task.
+Debugging,The process of finding and fixing errors or bugs in software code.
+Testing,The process of evaluating a software application or system to find defects and ensure its quality.
+Documentation,Written information describing the functionality and use of software or hardware.
+Version,A specific iteration or release of a software product.
+Repository,A storage location where software code and related assets are stored and managed.
+Merge,Combining changes from different branches of code into a single codebase.
+Commit,"A record of changes made to a repository, typically accompanied by a message describing the changes."
+Branch,"A separate line of development in a version control system, allowing for parallel work on code."
+Clone,Creating a copy of a repository or branch.
+Pull,Fetching and integrating changes from a remote repository into a local branch.
+Push,Uploading local changes to a remote repository.
+Merge Conflict,A situation where two branches of code have changes that cannot be automatically reconciled.
+API,Application Programming Interface; a set of rules and protocols for building and interacting with software applications.
+Interface,A boundary across which two independent systems meet and interact.
+GUI,Graphical User Interface; a visual way of interacting with software using graphical elements.
+CLI,Command Line Interface; a text-based way of interacting with software using command-line commands.
+IDE,Integrated Development Environment; a software application that provides comprehensive facilities to computer programmers for software development.
+Debugger,A tool used to identify and remove errors or bugs from software code.
+Compiler,A program that translates code written in a high-level programming language into machine code.
+Interpreter,A program that directly executes instructions written in a programming language without the need for prior compilation.
+Syntax Error,An error that occurs when code violates the rules of the programming language.
+Runtime Error,"An error that occurs while a program is running, typically due to logical errors or unexpected conditions."
+Exception,An error or unexpected condition that occurs during the execution of a program.
+Recursion,A programming technique where a function calls itself in its definition.
+Loop,A control flow statement that allows code to be executed repeatedly based on a condition.
+Array,"A data structure that stores a collection of elements, typically of the same type."
+List,A data structure that stores a collection of elements in a specific order.
+Tuple,"A data structure that stores an ordered collection of elements, which cannot be modified after creation."
+Dictionary,"A data structure that stores a collection of key-value pairs, allowing fast retrieval of values based on their keys."
+Set,"A data structure that stores a collection of unique elements, without any particular order."
+Stack,"A data structure that follows the Last In, First Out (LIFO) principle, where elements are added and removed from the same end."
+Queue,"A data structure that follows the First In, First Out (FIFO) principle, where elements are added at the rear and removed from the front."
+Heap,A specialized tree-based data structure that satisfies the heap property.
+Binary Tree,A tree data structure in which each node has at most two children.
+Graph,A data structure consisting of a set of nodes and a set of edges that connect pairs of nodes.
+Sorting,The process of arranging elements in a specific order.
+Searching,The process of finding a specific element within a collection of elements.
+Big O Notation,A mathematical notation that describes the limiting behavior of a function when the argument approaches a particular value or infinity.
+Complexity,The measure of how the runtime of an algorithm or function increases with the size of its input.
+Asymptotic,Relating to the behavior of a function as the input size approaches infinity.
+Efficiency,"The ability to accomplish a task with minimal wasted time, effort, or resources."
+Optimization,"The process of making a system, design, or code as efficient as possible."
+Agile,"A software development methodology focused on iterative development, collaboration, and customer feedback."
+Scrum,"A framework within the Agile methodology that emphasizes teamwork, accountability, and iterative progress."
+Waterfall,"A traditional linear software development methodology where progress flows steadily downwards through the phases of conception, initiation, analysis, design, construction, testing, deployment, and maintenance."
+Kanban,A method for managing knowledge work with an emphasis on just-in-time delivery while not overloading the team members.
+Git,A distributed version control system for tracking changes in source code during software development.
+GitHub,A web-based hosting service for version control using Git.
+Bitbucket,A web-based hosting service for projects that use either the Mercurial or Git revision control systems.
+Continuous Integration,"The practice of frequently integrating code changes into a shared repository, followed by an automated build and test process."
+Continuous Deployment,The practice of automatically deploying code changes to production environments after passing automated tests.
+Containerization,The process of encapsulating an application and its dependencies into a container that can run on any computing environment.
+Virtualization,"The process of creating a virtual representation of a physical computing device, such as a server, storage device, or network resource."
+Cloud Computing,"The delivery of computing services—including servers, storage, databases, networking, software, and analytics—over the internet."
+Microservices,"An architectural style that structures an application as a collection of loosely coupled services, which are independently deployable and scalable."
+RESTful,"Representational State Transfer; an architectural style for designing networked applications, emphasizing stateless communication and uniform resource interfaces."
+JSON,JavaScript Object Notation; a lightweight data interchange format.
+XML,eXtensible Markup Language; a markup language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable.
+HTTP,Hypertext Transfer Protocol; the foundation of data communication for the World Wide Web.
+HTTPS,Hypertext Transfer Protocol Secure; an extension of HTTP that provides secure communication over a computer network.
+TCP/IP,Transmission Control Protocol/Internet Protocol; the basic communication language or protocol of the internet.
+SSL,Secure Sockets Layer; a standard security technology for establishing an encrypted link between a server and a client.
+SSH,Secure Shell; a cryptographic network protocol for operating network services securely over an unsecured network.
+DNS,"Domain Name System; a hierarchical decentralized naming system for computers, services, or other resources connected to the internet or a private network."
+URL,Uniform Resource Locator; a reference to a web resource that specifies its location on a computer network and the mechanism for retrieving it.
+SQL,Structured Query Language; a domain-specific language used in programming and designed for managing data held in a relational database management system.
+NoSQL,Not Only SQL; a broad class of database management systems that differ from the classic relational database management system.
+ORM,Object-Relational Mapping; a programming technique for converting data between incompatible type systems using object-oriented programming languages.
+CRUD,"Create, Read, Update, Delete; a set of basic operations for persistent storage in a database or file system."
+MVC,Model-View-Controller; a software design pattern for implementing user interfaces.

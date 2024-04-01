@@ -1,0 +1,73 @@
+WORD,MEANING
+Logistics,"The process of planning, implementing, and controlling the efficient flow and storage of goods, services, and information from point of origin to point of consumption."
+Supply Chain,"The sequence of processes involved in the production and distribution of a commodity, from the raw material stage to the final customer."
+Transportation,The movement of goods or people from one place to another.
+Warehouse,A large building used for storing goods.
+Inventory,The goods and materials that a business holds for the ultimate goal of resale.
+Distribution,The process of delivering goods or services to customers or retail outlets.
+Shipping,"The process of transporting goods by sea, air, or land."
+Freight,"Goods transported in bulk by truck, train, ship, or aircraft."
+Carrier,A person or company that transports goods or passengers.
+Cargo,"Goods carried by a ship, aircraft, or other vehicle."
+Route,A way or course taken in getting from a starting point to a destination.
+Logistics Management,"The planning, implementation, and control of the movement and storage of goods and services within a supply chain."
+Supplier,A person or organization that provides goods or services to another entity.
+Customer,A person or organization that buys goods or services from a seller.
+Demand,The desire or need for a product or service.
+Supply,The amount of goods or services available for purchase or consumption.
+Order,A request made by a customer for goods or services.
+Tracking,The process of monitoring the movement of goods or shipments.
+Packaging,"The process of enclosing goods in protective containers for distribution, storage, sale, and use."
+Pallet,"A portable platform with or without sides, on which goods can be stacked, stored, and transported."
+Fulfillment,The process of delivering goods or services to customers as promised.
+Warehousing,The storage of goods in a warehouse.
+Cross-Docking,"A logistics strategy where products from suppliers are unloaded from incoming trucks and immediately loaded onto outbound trucks, with minimal or no storage in between."
+Last Mile,"The final stage of the delivery process, where goods are transported from a distribution center to the end customer."
+3PL,Third-party Logistics; a company that provides outsourced logistics services to other companies.
+4PL,Fourth-party Logistics; a supply chain integrator that manages the entire supply chain on behalf of a company.
+LTL,Less Than Truckload; a shipment that does not require the full capacity of a truck.
+FTL,Full Truckload; a shipment that requires the full capacity of a truck.
+Freight Forwarder,A company or individual that arranges transportation for goods on behalf of shippers.
+Customs,The government agency responsible for regulating the flow of goods into and out of a country.
+Broker,"A person or firm that acts as an intermediary between parties to facilitate transactions, typically in exchange for a commission."
+Documentation,The paperwork required for the transportation and clearance of goods.
+Incoterm,International Commercial Terms; standardized terms used in international trade to define the responsibilities of buyers and sellers regarding the delivery of goods.
+Bill of Lading,"A document issued by a carrier to acknowledge receipt of goods for shipment, specifying the terms of delivery."
+Tariff,A tax or duty to be paid on a particular class of imports or exports.
+Insurance,A contract in which an individual or entity receives financial protection or reimbursement against losses from an insurance company.
+Freight Rate,The price charged for transporting goods.
+Consignment,A shipment of goods sent by one party to another under the terms of a consignment agreement.
+Intermodal,Relating to or using more than one mode of transportation.
+Supply Chain Management,The oversight and management of the entire supply chain from procurement to delivery.
+Reverse Logistics,The process of managing the return of goods from the point of consumption to the point of origin.
+Cold Chain,A temperature-controlled supply chain used to preserve and transport perishable goods.
+Inventory Management,The process of overseeing the flow of goods into and out of an organization's inventory.
+Cross-Border,Relating to or involving movement or trade across international boundaries.
+ETA,Estimated Time of Arrival; the expected time when a shipment will arrive at its destination.
+EDI,Electronic Data Interchange; the electronic exchange of business documents between organizations.
+SKU,Stock Keeping Unit; a unique code assigned to each distinct product in a stockroom or warehouse.
+RFID,Radio-Frequency Identification; a technology that uses electromagnetic fields to automatically identify and track tags attached to objects.
+WMS,"Warehouse Management System; software used to manage warehouse operations, including receiving, picking, packing, and shipping."
+TMS,"Transportation Management System; software used to plan, execute, and optimize the movement of goods."
+ERP,"Enterprise Resource Planning; software used to manage core business processes such as finance, human resources, and procurement."
+Forecasting,The process of predicting future demand for goods or services.
+Outsourcing,The practice of contracting out certain business functions or processes to external service providers.
+KPI,Key Performance Indicator; a measurable value that demonstrates how effectively a company is achieving its business objectives.
+Lead Time,The time between the initiation and completion of a production or procurement process.
+Dock,A platform for loading and unloading goods from trucks or ships.
+Consolidation,"The process of combining several smaller shipments into a single, larger shipment."
+Deconsolidation,"The process of breaking down a single, larger shipment into several smaller shipments."
+Route Optimization,The process of finding the most efficient route for transporting goods.
+Drayage,"The transportation of goods over a short distance, typically by truck."
+Inventory Control,The management of inventory levels to minimize holding costs while ensuring sufficient stock to meet demand.
+Pick and Pack,The process of selecting items from inventory and packaging them for shipment.
+Supply Chain Visibility,The ability to track and monitor the movement of goods throughout the supply chain.
+Load Planning,The process of organizing and optimizing the placement of goods within a vehicle for transportation.
+Vendor,A person or company that sells goods or services to a buyer.
+Container,"A standardized metal box used for transporting goods by sea, rail, or road."
+Distributor,A person or company that distributes goods to retailers or end customers.
+Freight Broker,"An intermediary between shippers and carriers, helping to arrange transportation services."
+Logistics Provider,"A company that offers logistics services, such as transportation, warehousing, and distribution."
+Just-in-Time,A strategy for minimizing inventory levels by scheduling production to meet demand precisely.
+Supply Chain Risk,The potential disruptions or uncertainties that can affect the flow of goods and services within a supply chain.
+Reverse Auction,"An auction in which sellers bid for business from buyers, with the lowest bid winning."

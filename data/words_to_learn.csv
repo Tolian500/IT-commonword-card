@@ -1,0 +1,19 @@
+TERM,MEANING
+Python,A high-level programming language known for its simplicity and readability.
+Programming,The act of writing and designing computer programs.
+Application,A software program designed to perform a specific task or set of tasks for the user.
+Function,A named block of code that performs a specific task or operation.
+Syntax,The rules that define the structure of a programming language.
+Merge,Combining changes from different branches of code into a single codebase.
+GUI,Graphical User Interface; a visual way of interacting with software using graphical elements.
+CLI,Command Line Interface; a text-based way of interacting with software using command-line commands.
+Loop,A control flow statement that allows code to be executed repeatedly based on a condition.
+Heap,A specialized tree-based data structure that satisfies the heap property.
+Graph,A data structure consisting of a set of nodes and a set of edges that connect pairs of nodes.
+Searching,The process of finding a specific element within a collection of elements.
+Containerization,The process of encapsulating an application and its dependencies into a container that can run on any computing environment.
+Virtualization,"The process of creating a virtual representation of a physical computing device, such as a server, storage device, or network resource."
+XML,eXtensible Markup Language; a markup language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable.
+HTTP,Hypertext Transfer Protocol; the foundation of data communication for the World Wide Web.
+URL,Uniform Resource Locator; a reference to a web resource that specifies its location on a computer network and the mechanism for retrieving it.
+ORM,Object-Relational Mapping; a programming technique for converting data between incompatible type systems using object-oriented programming languages.
